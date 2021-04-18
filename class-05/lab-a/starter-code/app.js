@@ -67,12 +67,7 @@ function sumAndMultiply(a, b, c) { //eslint-disable-line
   
   return [sumAndMultiplyS[0],sumAndMultiplyM[0],msg,msg2]
 =======
-  let sum = a + b + c;
-  let multiply = a * b * c;
-  let msg =  a +' and '+ b +' and '+ c +' sum to '+ sum +'.';
-  let msg2 = 'The product of '+ a +' and '+ b +' and '+c+' is '+ multiply +'.';
-  return [sum,multiply,msg,msg2]
->>>>>>> e36280f14980212e7ad7fb40537a0a3868a2ee00
+  
 }
 
 
